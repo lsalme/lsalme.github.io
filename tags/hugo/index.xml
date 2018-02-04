@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Microdream</title>
-    <link>https://microblog.dreamcreator108.com/tags/hugo/</link>
+    <link>https://lsal.me/tags/hugo/</link>
     <description>Recent content in Hugo on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 23 Oct 2017 08:14:37 +0000</lastBuildDate>
     
-	<atom:link href="https://microblog.dreamcreator108.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lsal.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>000005</title>
-      <link>https://microblog.dreamcreator108.com/posts/000005/</link>
+      <link>https://lsal.me/posts/000005/</link>
       <pubDate>Mon, 23 Oct 2017 08:14:37 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000005/</guid>
+      <guid>https://lsal.me/posts/000005/</guid>
       <description>至此，对于这个微博客的配置已经完成了。并用 IFTTT 同步这里的 RSS 内容到 Tumblr、Twitter 上。</description>
     </item>
     
     <item>
       <title>000004</title>
-      <link>https://microblog.dreamcreator108.com/posts/000004/</link>
+      <link>https://lsal.me/posts/000004/</link>
       <pubDate>Mon, 23 Oct 2017 07:27:56 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000004/</guid>
+      <guid>https://lsal.me/posts/000004/</guid>
       <description>已设置自动编号。</description>
     </item>
     
     <item>
       <title>000003</title>
-      <link>https://microblog.dreamcreator108.com/posts/000003/</link>
+      <link>https://lsal.me/posts/000003/</link>
       <pubDate>Mon, 23 Oct 2017 02:54:27 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000003/</guid>
+      <guid>https://lsal.me/posts/000003/</guid>
       <description>计划晚上进一步简化流程，文章名自动编号。</description>
     </item>
     
     <item>
       <title>000002</title>
-      <link>https://microblog.dreamcreator108.com/posts/000002/</link>
+      <link>https://lsal.me/posts/000002/</link>
       <pubDate>Mon, 23 Oct 2017 02:19:15 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000002/</guid>
+      <guid>https://lsal.me/posts/000002/</guid>
       <description>简易发表的功能实现成功。</description>
     </item>
     
     <item>
       <title>000001</title>
-      <link>https://microblog.dreamcreator108.com/posts/000001/</link>
+      <link>https://lsal.me/posts/000001/</link>
       <pubDate>Sun, 22 Oct 2017 15:19:19 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000001/</guid>
+      <guid>https://lsal.me/posts/000001/</guid>
       <description>使用 Hugo 成功部署了个人微博。</description>
     </item>
     
     <item>
       <title>000000</title>
-      <link>https://microblog.dreamcreator108.com/posts/000000/</link>
+      <link>https://lsal.me/posts/000000/</link>
       <pubDate>Sun, 22 Oct 2017 13:49:19 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000000/</guid>
+      <guid>https://lsal.me/posts/000000/</guid>
       <description>Hello World !</description>
     </item>
     

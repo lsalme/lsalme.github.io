@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Microdream</title>
-    <link>https://microblog.dreamcreator108.com/tags/code/</link>
+    <link>https://lsal.me/tags/code/</link>
     <description>Recent content in Code on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 24 Jan 2018 05:24:26 +0000</lastBuildDate>
     
-	<atom:link href="https://microblog.dreamcreator108.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lsal.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>000051</title>
-      <link>https://microblog.dreamcreator108.com/posts/000051/</link>
+      <link>https://lsal.me/posts/000051/</link>
       <pubDate>Wed, 24 Jan 2018 05:24:26 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/posts/000051/</guid>
+      <guid>https://lsal.me/posts/000051/</guid>
       <description>&lt;p&gt;相比较 vim，vi 给我的感觉奇怪很多，记录个改 &lt;code&gt;/etc/vim/vimrc.tiny&lt;/code&gt; 的配置，使用方向键和退格键。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;set nocompatible

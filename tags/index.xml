@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Microdream</title>
-    <link>https://microblog.dreamcreator108.com/tags/</link>
+    <link>https://lsal.me/tags/</link>
     <description>Recent content in Tags on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 24 Jan 2018 05:24:26 +0000</lastBuildDate>
     
-	<atom:link href="https://microblog.dreamcreator108.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lsal.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://microblog.dreamcreator108.com/tags/code/</link>
+      <link>https://lsal.me/tags/code/</link>
       <pubDate>Wed, 24 Jan 2018 05:24:26 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/code/</guid>
+      <guid>https://lsal.me/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excerpt</title>
-      <link>https://microblog.dreamcreator108.com/tags/excerpt/</link>
+      <link>https://lsal.me/tags/excerpt/</link>
       <pubDate>Wed, 08 Nov 2017 08:44:47 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/excerpt/</guid>
+      <guid>https://lsal.me/tags/excerpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://microblog.dreamcreator108.com/tags/hugo/</link>
+      <link>https://lsal.me/tags/hugo/</link>
       <pubDate>Mon, 23 Oct 2017 08:14:37 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/hugo/</guid>
+      <guid>https://lsal.me/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://microblog.dreamcreator108.com/tags/life/</link>
+      <link>https://lsal.me/tags/life/</link>
       <pubDate>Sat, 03 Feb 2018 13:19:54 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/life/</guid>
+      <guid>https://lsal.me/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory</title>
-      <link>https://microblog.dreamcreator108.com/tags/memory/</link>
+      <link>https://lsal.me/tags/memory/</link>
       <pubDate>Wed, 08 Nov 2017 08:39:22 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/memory/</guid>
+      <guid>https://lsal.me/tags/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://microblog.dreamcreator108.com/tags/music/</link>
+      <link>https://lsal.me/tags/music/</link>
       <pubDate>Sat, 13 Jan 2018 10:57:48 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/music/</guid>
+      <guid>https://lsal.me/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photo</title>
-      <link>https://microblog.dreamcreator108.com/tags/photo/</link>
+      <link>https://lsal.me/tags/photo/</link>
       <pubDate>Fri, 19 Jan 2018 13:23:45 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/photo/</guid>
+      <guid>https://lsal.me/tags/photo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Untagged</title>
-      <link>https://microblog.dreamcreator108.com/tags/untagged/</link>
+      <link>https://lsal.me/tags/untagged/</link>
       <pubDate>Mon, 27 Nov 2017 04:06:54 +0000</pubDate>
       
-      <guid>https://microblog.dreamcreator108.com/tags/untagged/</guid>
+      <guid>https://lsal.me/tags/untagged/</guid>
       <description></description>
     </item>
     
