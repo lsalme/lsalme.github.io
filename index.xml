@@ -85,7 +85,7 @@
       <pubDate>Wed, 24 Jan 2018 05:24:26 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000051/</guid>
-      <description>&lt;p&gt;相比较 vim，vi 给我的感觉奇怪很多，记录个改 &lt;code&gt;/etc/vim/vimrc.tiny&lt;/code&gt; 的配置，使用方向键和退格键。&lt;/p&gt;
+      <description>&lt;p&gt;一直在用vim。相比较 vim，vi 给我的感觉奇怪很多，记录个改 &lt;code&gt;/etc/vim/vimrc.tiny&lt;/code&gt; 的配置，使用方向键和退格键。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;set nocompatible
 set backspace=2
