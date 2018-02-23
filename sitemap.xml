@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000072/</loc>
+    <lastmod>2018-02-23T03:35:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000071/</loc>
     <lastmod>2018-02-23T00:32:23+00:00</lastmod>
   </url>
@@ -374,13 +379,7 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-02-23T00:32:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lsal.me/categories/music/</loc>
-    <lastmod>2018-02-18T15:07:16+00:00</lastmod>
+    <lastmod>2018-02-23T03:35:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -391,20 +390,26 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/categories/photo/</loc>
-    <lastmod>2018-02-04T12:43:28+00:00</lastmod>
+    <loc>https://lsal.me/categories/music/</loc>
+    <lastmod>2018-02-18T15:07:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/tags/photo/</loc>
-    <lastmod>2018-02-04T12:43:28+00:00</lastmod>
+    <lastmod>2018-02-23T03:35:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/categories/photo/</loc>
+    <lastmod>2018-02-23T03:35:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-02-23T00:32:23+00:00</lastmod>
+    <lastmod>2018-02-23T03:35:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
