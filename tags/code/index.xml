@@ -6,10 +6,25 @@
     <description>Recent content in Code on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 06 Feb 2018 03:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 11:17:34 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000074</title>
+      <link>https://lsal.me/posts/000074/</link>
+      <pubDate>Mon, 26 Feb 2018 11:17:34 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000074/</guid>
+      <description>&lt;p&gt;记录 OpenWrt/LEDE 下更新所有待更新软件包的方法。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;opkg update
+opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000060</title>
