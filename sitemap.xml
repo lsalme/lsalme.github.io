@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000079/</loc>
+    <lastmod>2018-03-14T12:01:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000078/</loc>
     <lastmod>2018-03-13T03:05:39+00:00</lastmod>
   </url>
@@ -409,7 +414,7 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-03-13T03:05:39+00:00</lastmod>
+    <lastmod>2018-03-14T12:01:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -427,19 +432,19 @@
   
   <url>
     <loc>https://lsal.me/tags/photo/</loc>
-    <lastmod>2018-03-03T23:52:22+00:00</lastmod>
+    <lastmod>2018-03-14T12:01:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/categories/photo/</loc>
-    <lastmod>2018-03-03T23:52:22+00:00</lastmod>
+    <lastmod>2018-03-14T12:01:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-03-13T03:05:39+00:00</lastmod>
+    <lastmod>2018-03-14T12:01:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
