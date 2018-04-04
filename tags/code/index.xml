@@ -6,10 +6,21 @@
     <description>Recent content in Code on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Apr 2018 02:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 02:34:52 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000093</title>
+      <link>https://lsal.me/posts/000093/</link>
+      <pubDate>Wed, 04 Apr 2018 02:34:52 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000093/</guid>
+      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000092</title>
