@@ -6,10 +6,21 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Apr 2018 03:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Apr 2018 06:09:43 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000095</title>
+      <link>https://lsal.me/posts/000095/</link>
+      <pubDate>Thu, 05 Apr 2018 06:09:43 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000095/</guid>
+      <description>&lt;p&gt;凑巧学到了如何让 MySQL 或者 MariaDB 让远程用户连接的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000094</title>
