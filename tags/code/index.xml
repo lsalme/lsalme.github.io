@@ -6,10 +6,21 @@
     <description>Recent content in Code on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Apr 2018 06:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 11:10:37 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000099</title>
+      <link>https://lsal.me/posts/000099/</link>
+      <pubDate>Wed, 11 Apr 2018 11:10:37 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000099/</guid>
+      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000095</title>
