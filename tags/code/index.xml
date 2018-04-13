@@ -17,7 +17,7 @@
       <pubDate>Fri, 13 Apr 2018 12:21:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000102/</guid>
-      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个他的 home 目录里的一个文件夹，以防其中的文件被删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;
+      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个用户的 home 目录里的一个文件夹，以防其中的文件被该用户删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
