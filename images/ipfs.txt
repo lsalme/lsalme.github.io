@@ -10,3 +10,5 @@ ipfs pin add QmaFhxYgp6BjmJp1bS6W8Z6nA5VWD4GDfofysVXdmMQBNZ
 ipfs pin add QmZqte2Fu2fPNfwfpZftqnQWyhBNTa4C1FxyyiBdU1z3f5
 
 ipfs pin add QmVPNeYQ9bii4BC8ptvFNjxEjyVu5AtcDmefUi9uKMpHVK
+
+ipfs pin add Qmb9EF3U3ZmA2D4FUpY3NtTyLNQPj2qMX7TC7kiaiTaV9v
