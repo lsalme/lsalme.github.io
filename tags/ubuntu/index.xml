@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Microdream</title>
+    <link>https://lsal.me/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Microdream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Apr 2018 06:42:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://lsal.me/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>000108</title>
+      <link>https://lsal.me/posts/000108/</link>
+      <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000108/</guid>
+      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

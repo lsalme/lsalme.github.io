@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 06:42:34 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Code</title>
       <link>https://lsal.me/tags/code/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:48 +0000</pubDate>
+      <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/tags/code/</guid>
       <description></description>
@@ -71,6 +71,15 @@
       <pubDate>Thu, 26 Apr 2018 11:14:19 +0000</pubDate>
       
       <guid>https://lsal.me/tags/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://lsal.me/tags/ubuntu/</link>
+      <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/ubuntu/</guid>
       <description></description>
     </item>
     
