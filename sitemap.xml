@@ -523,6 +523,12 @@
   </url>
   
   <url>
+    <loc>https://lsal.me/tags/android/</loc>
+    <lastmod>2018-04-13T12:19:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/categories/</loc>
     <priority>0</priority>
   </url>
@@ -530,6 +536,12 @@
   <url>
     <loc>https://lsal.me/tags/code/</loc>
     <lastmod>2018-04-27T06:42:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/css/</loc>
+    <lastmod>2018-04-04T02:34:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -546,14 +558,32 @@
   </url>
   
   <url>
+    <loc>https://lsal.me/tags/jquery/</loc>
+    <lastmod>2018-04-04T02:27:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/tags/life/</loc>
     <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://lsal.me/tags/linux/</loc>
+    <lastmod>2018-04-18T12:02:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/manjaro/</loc>
+    <lastmod>2018-02-06T03:17:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/tags/memory/</loc>
-    <lastmod>2017-11-08T08:39:22+00:00</lastmod>
+    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -572,6 +602,12 @@
   <url>
     <loc>https://lsal.me/categories/music/</loc>
     <lastmod>2018-03-28T14:43:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/openwrt/</loc>
+    <lastmod>2018-02-26T11:17:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -595,7 +631,7 @@
   
   <url>
     <loc>https://lsal.me/tags/</loc>
-    <lastmod>2018-04-27T06:42:34+00:00</lastmod>
+    <lastmod>2018-04-13T12:19:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -608,6 +644,12 @@
   <url>
     <loc>https://lsal.me/tags/ubuntu/</loc>
     <lastmod>2018-04-27T06:42:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/vim/</loc>
+    <lastmod>2018-01-24T05:24:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   

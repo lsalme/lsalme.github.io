@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Apr 2018 06:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Apr 2018 12:19:02 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://lsal.me/tags/android/</link>
+      <pubDate>Fri, 13 Apr 2018 12:19:02 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/android/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code</title>
@@ -17,6 +26,15 @@
       <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://lsal.me/tags/css/</link>
+      <pubDate>Wed, 04 Apr 2018 02:34:52 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/css/</guid>
       <description></description>
     </item>
     
@@ -39,6 +57,15 @@
     </item>
     
     <item>
+      <title>Jquery</title>
+      <link>https://lsal.me/tags/jquery/</link>
+      <pubDate>Wed, 04 Apr 2018 02:27:32 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Life</title>
       <link>https://lsal.me/tags/life/</link>
       <pubDate>Thu, 26 Apr 2018 11:14:19 +0000</pubDate>
@@ -48,9 +75,27 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>https://lsal.me/tags/linux/</link>
+      <pubDate>Wed, 18 Apr 2018 12:02:57 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjaro</title>
+      <link>https://lsal.me/tags/manjaro/</link>
+      <pubDate>Tue, 06 Feb 2018 03:17:44 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/manjaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Memory</title>
       <link>https://lsal.me/tags/memory/</link>
-      <pubDate>Wed, 08 Nov 2017 08:39:22 +0000</pubDate>
+      <pubDate>Thu, 26 Apr 2018 11:14:19 +0000</pubDate>
       
       <guid>https://lsal.me/tags/memory/</guid>
       <description></description>
@@ -62,6 +107,15 @@
       <pubDate>Thu, 26 Apr 2018 11:14:19 +0000</pubDate>
       
       <guid>https://lsal.me/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openwrt</title>
+      <link>https://lsal.me/tags/openwrt/</link>
+      <pubDate>Mon, 26 Feb 2018 11:17:34 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/openwrt/</guid>
       <description></description>
     </item>
     
@@ -80,6 +134,15 @@
       <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://lsal.me/tags/vim/</link>
+      <pubDate>Wed, 24 Jan 2018 05:24:26 +0000</pubDate>
+      
+      <guid>https://lsal.me/tags/vim/</guid>
       <description></description>
     </item>
     

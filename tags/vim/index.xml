@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Microdream</title>
+    <link>https://lsal.me/tags/vim/</link>
+    <description>Recent content in Vim on Microdream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2018 05:24:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://lsal.me/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>000051</title>
+      <link>https://lsal.me/posts/000051/</link>
+      <pubDate>Wed, 24 Jan 2018 05:24:26 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000051/</guid>
+      <description>&lt;p&gt;一直在用vim。相比较 vim，vi 给我的感觉奇怪很多，记录个改 &lt;code&gt;/etc/vim/vimrc.tiny&lt;/code&gt; 的配置，使用方向键和退格键。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;set nocompatible
+set backspace=2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

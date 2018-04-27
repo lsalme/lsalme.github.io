@@ -378,7 +378,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Fri, 23 Feb 2018 00:32:23 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000071/</guid>
-      <description>&lt;p&gt;《西藏生死书》摘抄（一）&lt;/p&gt;
+      <description>&lt;p&gt;《西藏生死书》摘抄&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;这些东西一但做好了，他就立刻毁掉，他说它们只会让他更分心而已。&lt;/p&gt;&lt;/li&gt;
