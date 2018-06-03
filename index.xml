@@ -6,10 +6,25 @@
     <description>Recent content on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 May 2018 07:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 04:58:27 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000114</title>
+      <link>https://lsal.me/posts/000114/</link>
+      <pubDate>Sun, 03 Jun 2018 04:58:27 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000114/</guid>
+      <description>&lt;p&gt;在 Debian 上 &lt;code&gt;apt update&lt;/code&gt; 后报错：&lt;/p&gt;
+
+&lt;p&gt;BZ2_bzread: /var/lib/apt/lists/partial/security.debian.org_debian-security_dists_stable_updates_contrib_i18n_Translation-en.bz2 Read error (-5: DATA_ERROR_MAGIC)&lt;/p&gt;
+
+&lt;p&gt;查找相关问题，删除 &lt;code&gt;/var/lib/apt/lists/&lt;/code&gt; 下的所有文件后，再执行 &lt;code&gt;apt update&lt;/code&gt; 后即可。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000113</title>
