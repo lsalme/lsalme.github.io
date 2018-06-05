@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000115/</loc>
+    <lastmod>2018-06-05T07:21:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000114/</loc>
     <lastmod>2018-06-03T04:58:27+00:00</lastmod>
   </url>
@@ -620,19 +625,19 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-06-03T04:58:27+00:00</lastmod>
+    <lastmod>2018-06-05T07:21:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/tags/music/</loc>
-    <lastmod>2018-04-29T07:59:40+00:00</lastmod>
+    <lastmod>2018-06-05T07:21:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/categories/music/</loc>
-    <lastmod>2018-04-29T07:59:40+00:00</lastmod>
+    <lastmod>2018-06-05T07:21:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -656,7 +661,7 @@
   
   <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-06-03T04:58:27+00:00</lastmod>
+    <lastmod>2018-06-05T07:21:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
