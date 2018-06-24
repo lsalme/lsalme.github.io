@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000118/</loc>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000117/</loc>
     <lastmod>2018-06-12T07:37:18+00:00</lastmod>
   </url>
@@ -575,7 +580,7 @@
   
   <url>
     <loc>https://lsal.me/tags/code/</loc>
-    <lastmod>2018-04-29T00:51:38+00:00</lastmod>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -635,7 +640,7 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-06-12T07:37:18+00:00</lastmod>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -671,7 +676,13 @@
   
   <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-06-12T07:37:18+00:00</lastmod>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/snap/</loc>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -683,13 +694,13 @@
   
   <url>
     <loc>https://lsal.me/categories/text/</loc>
-    <lastmod>2018-06-12T07:37:18+00:00</lastmod>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/tags/ubuntu/</loc>
-    <lastmod>2018-04-27T06:42:34+00:00</lastmod>
+    <lastmod>2018-06-24T02:10:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
