@@ -6,10 +6,25 @@
     <description>Recent content in Code on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jun 2018 00:27:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 00:35:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000120</title>
+      <link>https://lsal.me/posts/000120/</link>
+      <pubDate>Wed, 27 Jun 2018 00:35:00 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000120/</guid>
+      <description>&lt;p&gt;Openwrt 下用 https 的软件源更新时会报错：&lt;/p&gt;
+
+&lt;p&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.&lt;/p&gt;
+
+&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000119</title>

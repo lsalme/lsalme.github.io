@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000120/</loc>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000119/</loc>
     <lastmod>2018-06-27T00:27:05+00:00</lastmod>
   </url>
@@ -585,7 +590,7 @@
   
   <url>
     <loc>https://lsal.me/tags/code/</loc>
-    <lastmod>2018-06-27T00:27:05+00:00</lastmod>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -645,13 +650,7 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-06-27T00:27:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lsal.me/categories/music/</loc>
-    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -662,14 +661,14 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/tags/openwrt/</loc>
-    <lastmod>2018-02-26T11:17:34+00:00</lastmod>
+    <loc>https://lsal.me/categories/music/</loc>
+    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lsal.me/categories/photo/</loc>
-    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
+    <loc>https://lsal.me/tags/openwrt/</loc>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -680,8 +679,14 @@
   </url>
   
   <url>
+    <loc>https://lsal.me/categories/photo/</loc>
+    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-06-27T00:27:05+00:00</lastmod>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -699,7 +704,7 @@
   
   <url>
     <loc>https://lsal.me/categories/text/</loc>
-    <lastmod>2018-06-27T00:27:05+00:00</lastmod>
+    <lastmod>2018-06-27T00:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
