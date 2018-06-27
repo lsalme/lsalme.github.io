@@ -6,10 +6,21 @@
     <description>Recent content in Linux on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Apr 2018 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 00:27:05 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000119</title>
+      <link>https://lsal.me/posts/000119/</link>
+      <pubDate>Wed, 27 Jun 2018 00:27:05 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000119/</guid>
+      <description>&lt;p&gt;命令行解决 Linux 下解压 Windows 压缩的 zip 文件，或打开 Windows 下创建的 txt 文件，出现的中文乱码问题。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000105</title>
