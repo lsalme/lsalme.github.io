@@ -6,10 +6,21 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jun 2018 00:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jun 2018 23:16:22 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>000122</title>
+      <link>https://lsal.me/posts/000122/</link>
+      <pubDate>Fri, 29 Jun 2018 23:16:22 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000122/</guid>
+      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于全盘加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>000120</title>
