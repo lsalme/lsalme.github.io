@@ -611,6 +611,12 @@
   </url>
   
   <url>
+    <loc>https://lsal.me/tags/debian/</loc>
+    <lastmod>2018-06-03T04:58:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/tags/excerpt/</loc>
     <lastmod>2018-03-24T08:45:47+00:00</lastmod>
     <priority>0</priority>
@@ -641,12 +647,6 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/tags/linux-debian/</loc>
-    <lastmod>2018-06-03T04:58:27+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lsal.me/tags/manjaro/</loc>
     <lastmod>2018-02-06T03:17:44+00:00</lastmod>
     <priority>0</priority>
@@ -665,13 +665,13 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/categories/music/</loc>
+    <loc>https://lsal.me/tags/music/</loc>
     <lastmod>2018-06-11T06:18:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lsal.me/tags/music/</loc>
+    <loc>https://lsal.me/categories/music/</loc>
     <lastmod>2018-06-11T06:18:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -683,13 +683,13 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/categories/photo/</loc>
+    <loc>https://lsal.me/tags/photo/</loc>
     <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lsal.me/tags/photo/</loc>
+    <loc>https://lsal.me/categories/photo/</loc>
     <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
