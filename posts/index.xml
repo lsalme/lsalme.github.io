@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jul 2018 01:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 15:19:55 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>解决树莓派联网失效问题</title>
+      <link>https://lsal.me/posts/000125/</link>
+      <pubDate>Mon, 09 Jul 2018 15:19:55 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000125/</guid>
+      <description>&lt;p&gt;由于相隔不远的邻居家失火，下楼前拉电闸断电了。回来的时候树莓派从突然断电的事件中重新开机，无法连接有线网络了。查看 &lt;code&gt;/etc/network/interfaces.d&lt;/code&gt; ，里面空空如也。故添加了一个 &lt;code&gt;eth0&lt;/code&gt; 文件。重启后问题得到解决。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>少聊天多办事</title>
