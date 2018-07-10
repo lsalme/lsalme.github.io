@@ -6,10 +6,21 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jul 2018 15:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:53:05 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在夜晚呼吸</title>
+      <link>https://lsal.me/posts/000126/</link>
+      <pubDate>Tue, 10 Jul 2018 00:53:05 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000126/</guid>
+      <description>&lt;p&gt;深夜听雨声是很惬意的事情，种种欲望歇止，一时间只有纯粹的安静。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>解决树莓派联网失效问题</title>
