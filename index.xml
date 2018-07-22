@@ -6,10 +6,21 @@
     <description>Recent content on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jul 2018 10:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 07:03:39 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android 更改系统时区为 UTC</title>
+      <link>https://lsal.me/posts/000128/</link>
+      <pubDate>Sun, 22 Jul 2018 07:03:39 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000128/</guid>
+      <description>&lt;p&gt;Android 系统设置里不能把时区更改为 UTC，只能通过模拟终端或 ADB 解决。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Rain Never Stops</title>
