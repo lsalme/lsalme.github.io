@@ -6,10 +6,21 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jul 2018 07:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 08:20:19 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kali Linux 更新软件源公钥</title>
+      <link>https://lsal.me/posts/000129/</link>
+      <pubDate>Sun, 22 Jul 2018 08:20:19 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000129/</guid>
+      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Android 更改系统时区为 UTC</title>
