@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jul 2018 08:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 11:33:04 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>记一次包管理的失误</title>
+      <link>https://lsal.me/posts/000130/</link>
+      <pubDate>Sat, 28 Jul 2018 11:33:04 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000130/</guid>
+      <description>&lt;p&gt;想尝试一下在 Debian 用 KDE 桌面，于是执行了 &lt;code&gt;apt install kde-full&lt;/code&gt; ，然而却报出了许多 &lt;code&gt;dpkg error&lt;/code&gt; ，后来发现是因为一个配置文件找不到导致的一系列错误。可是在卸载清理过程中也因同样的原因出错，而且当时没有意识到，所以乱删了很多东西。无奈最后只好翻 &lt;code&gt;/var/log/dpkg.log&lt;/code&gt;，把误删除的重新安装。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Kali Linux 更新软件源公钥</title>
