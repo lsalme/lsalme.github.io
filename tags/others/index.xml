@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Microdream</title>
+    <link>https://lsal.me/tags/others/</link>
+    <description>Recent content in Others on Microdream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Aug 2018 04:01:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://lsal.me/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我还在</title>
+      <link>https://lsal.me/posts/000131/</link>
+      <pubDate>Sat, 18 Aug 2018 04:01:36 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000131/</guid>
+      <description>&lt;p&gt;Aye aye, captain.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
