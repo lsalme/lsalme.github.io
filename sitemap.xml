@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000132/</loc>
+    <lastmod>2018-09-03T00:51:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000131/</loc>
     <lastmod>2018-08-18T04:01:36+00:00</lastmod>
   </url>
@@ -687,7 +692,7 @@
   
   <url>
     <loc>https://lsal.me/tags/life/</loc>
-    <lastmod>2018-07-10T00:53:05+00:00</lastmod>
+    <lastmod>2018-09-03T00:51:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -711,18 +716,18 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2018-08-18T04:01:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lsal.me/categories/music/</loc>
-    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
+    <lastmod>2018-09-03T00:51:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/tags/music/</loc>
+    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/categories/music/</loc>
     <lastmod>2018-06-11T06:18:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -740,20 +745,20 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/categories/photo/</loc>
-    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lsal.me/tags/photo/</loc>
     <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://lsal.me/categories/photo/</loc>
+    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2018-08-18T04:01:36+00:00</lastmod>
+    <lastmod>2018-09-03T00:51:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -777,7 +782,7 @@
   
   <url>
     <loc>https://lsal.me/categories/text/</loc>
-    <lastmod>2018-08-18T04:01:36+00:00</lastmod>
+    <lastmod>2018-09-03T00:51:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
