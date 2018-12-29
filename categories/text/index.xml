@@ -6,10 +6,19 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Oct 2018 14:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Dec 2018 02:51:58 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>归</title>
+      <link>https://lsal.me/posts/000135/</link>
+      <pubDate>Sat, 29 Dec 2018 02:51:58 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000135/</guid>
+      <description>&lt;p&gt;我胡汉三又回来啦！&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>人来人往</title>
@@ -17,9 +26,7 @@
       <pubDate>Tue, 09 Oct 2018 14:04:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000134/</guid>
-      <description>&lt;p&gt;就像呆呆地对着电视剧一样，看着匆匆的人走过身旁。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;就像呆呆地对着电视剧一样，看着匆匆的人走过身旁。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +35,7 @@
       <pubDate>Mon, 24 Sep 2018 08:11:28 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000133/</guid>
-      <description>&lt;p&gt;今年也收到了短信，流量提醒。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;今年也收到了短信，流量提醒。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +44,7 @@
       <pubDate>Mon, 03 Sep 2018 00:51:42 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000132/</guid>
-      <description>&lt;p&gt;准备每天晚上有空的时候清理一下浏览器书签，把曾经遇到的或大或小的问题和收藏的东西都分享到&lt;a href=&#34;https://dreamcreator108.com&#34; target=&#34;_blank&#34;&gt;博客&lt;/a&gt;上。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;准备每天晚上有空的时候清理一下浏览器书签，把曾经遇到的或大或小的问题和收藏的东西都分享到&lt;a href=&#34;https://dreamcreator108.com&#34; target=&#34;_blank&#34;&gt;博客&lt;/a&gt;上。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +53,7 @@
       <pubDate>Sat, 18 Aug 2018 04:01:36 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000131/</guid>
-      <description>&lt;p&gt;Aye aye, captain.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Aye aye, captain.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +62,7 @@
       <pubDate>Sat, 28 Jul 2018 11:33:04 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000130/</guid>
-      <description>&lt;p&gt;想尝试一下在 Debian 用 KDE 桌面，于是执行了 &lt;code&gt;apt install kde-full&lt;/code&gt; ，然而却报出了许多 &lt;code&gt;dpkg error&lt;/code&gt; ，后来发现是因为一个配置文件找不到导致的一系列错误。可是在卸载清理过程中也因同样的原因出错，而且当时没有意识到，所以乱删了很多东西。无奈最后只好翻 &lt;code&gt;/var/log/dpkg.log&lt;/code&gt;，把误删除的重新安装。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;想尝试一下在 Debian 用 KDE 桌面，于是执行了 &lt;code&gt;apt install kde-full&lt;/code&gt; ，然而却报出了许多 &lt;code&gt;dpkg error&lt;/code&gt; ，后来发现是因为一个配置文件找不到导致的一系列错误。可是在卸载清理过程中也因同样的原因出错，而且当时没有意识到，所以乱删了很多东西。无奈最后只好翻 &lt;code&gt;/var/log/dpkg.log&lt;/code&gt;，把误删除的重新安装。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +71,7 @@
       <pubDate>Sun, 22 Jul 2018 08:20:19 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000129/</guid>
-      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -83,9 +80,7 @@
       <pubDate>Sun, 22 Jul 2018 07:03:39 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000128/</guid>
-      <description>&lt;p&gt;Android 系统设置里不能把时区更改为 UTC，只能通过模拟终端或 ADB 解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Android 系统设置里不能把时区更改为 UTC，只能通过模拟终端或 ADB 解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,9 +97,7 @@
 
 &lt;p&gt;Shino: &amp;ldquo;I&amp;rsquo;m sorry, it&amp;rsquo;s just that nobody talks like that anymore.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;— Samurai Champloo, Gamblers and Gallantry&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;— Samurai Champloo, Gamblers and Gallantry&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -113,9 +106,7 @@
       <pubDate>Tue, 10 Jul 2018 00:53:05 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000126/</guid>
-      <description>&lt;p&gt;深夜听雨声是很惬意的事情，种种欲望歇止，一时间只有纯粹的安静。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;深夜听雨声是很惬意的事情，种种欲望歇止，一时间只有纯粹的安静。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -124,9 +115,7 @@
       <pubDate>Mon, 09 Jul 2018 15:19:55 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000125/</guid>
-      <description>&lt;p&gt;由于相隔不远的邻居家失火，下楼前拉电闸断电了。回来的时候树莓派从突然断电的事件中重新开机，无法连接有线网络了。查看 &lt;code&gt;/etc/network/interfaces.d&lt;/code&gt; ，里面空空如也。故添加了一个 &lt;code&gt;eth0&lt;/code&gt; 文件。重启后问题得到解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;由于相隔不远的邻居家失火，下楼前拉电闸断电了。回来的时候树莓派从突然断电的事件中重新开机，无法连接有线网络了。查看 &lt;code&gt;/etc/network/interfaces.d&lt;/code&gt; ，里面空空如也。故添加了一个 &lt;code&gt;eth0&lt;/code&gt; 文件。重启后问题得到解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -135,9 +124,7 @@
       <pubDate>Thu, 05 Jul 2018 01:47:42 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000124/</guid>
-      <description>&lt;p&gt;学习阶段，最好自娱自乐。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;学习阶段，最好自娱自乐。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -146,9 +133,7 @@
       <pubDate>Wed, 04 Jul 2018 08:22:40 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000123/</guid>
-      <description>&lt;p&gt;我很喜欢看云，尤其是云彩密布，却又能分辨出块儿来的时候。往往会有阳光从稀薄的缝隙中穿过，染得一片黄艳。仔细盯着会伤眼睛，仔细盯着，会让我迅速幻想起一些纯净奇幻的故事，它们距离我的生活那么遥远，却又在云端触手可及。所以长大了之后，即使喜欢，也很少抬头看云了。因为我怕太过于沉溺云的奇幻世界，转过头来反而对平淡的生活感到乏味。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;我很喜欢看云，尤其是云彩密布，却又能分辨出块儿来的时候。往往会有阳光从稀薄的缝隙中穿过，染得一片黄艳。仔细盯着会伤眼睛，仔细盯着，会让我迅速幻想起一些纯净奇幻的故事，它们距离我的生活那么遥远，却又在云端触手可及。所以长大了之后，即使喜欢，也很少抬头看云了。因为我怕太过于沉溺云的奇幻世界，转过头来反而对平淡的生活感到乏味。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -157,9 +142,7 @@
       <pubDate>Mon, 02 Jul 2018 12:27:37 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000122/</guid>
-      <description>&lt;p&gt;发现自己很难改掉一些习性，这让我感到害怕，有种被支配的恐惧。支配者恰恰就是我自己。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;发现自己很难改掉一些习性，这让我感到害怕，有种被支配的恐惧。支配者恰恰就是我自己。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -168,9 +151,7 @@
       <pubDate>Fri, 29 Jun 2018 23:16:22 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000121/</guid>
-      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -183,9 +164,7 @@
 
 &lt;p&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.&lt;/p&gt;
 
-&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -194,9 +173,7 @@
       <pubDate>Wed, 27 Jun 2018 00:27:05 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000119/</guid>
-      <description>&lt;p&gt;命令行解决 Linux 下解压 Windows 压缩的 zip 文件，和打开 Windows 下创建的 txt 文件，出现的中文乱码问题。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;命令行解决 Linux 下解压 Windows 压缩的 zip 文件，和打开 Windows 下创建的 txt 文件，出现的中文乱码问题。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -205,9 +182,7 @@
       <pubDate>Sun, 24 Jun 2018 02:10:57 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000118/</guid>
-      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -216,9 +191,7 @@
       <pubDate>Tue, 12 Jun 2018 07:37:18 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000117/</guid>
-      <description>&lt;p&gt;道阻且长。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;道阻且长。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -231,9 +204,7 @@
 
 &lt;p&gt;BZ2_bzread: /var/lib/apt/lists/partial/security.debian.org_debian-security_dists_stable_updates_contrib_i18n_Translation-en.bz2 Read error (-5: DATA_ERROR_MAGIC)&lt;/p&gt;
 
-&lt;p&gt;查找相关问题，删除 &lt;code&gt;/var/lib/apt/lists/&lt;/code&gt; 下的所有文件后，再执行 &lt;code&gt;apt update&lt;/code&gt; 后即可。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;查找相关问题，删除 &lt;code&gt;/var/lib/apt/lists/&lt;/code&gt; 下的所有文件后，再执行 &lt;code&gt;apt update&lt;/code&gt; 后即可。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -242,9 +213,7 @@
       <pubDate>Sun, 27 May 2018 07:50:40 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000113/</guid>
-      <description>&lt;p&gt;答辩过后，还是有一些感想的。第一，什么事情都要提前准备妥当，时间永远不会是一直充足的；第二，重要的事情要求取过来人的经验，事半功倍；第三，即使有小概率可能发生的事情，也不要松懈，小缺失往往是会受打击的重点；第四，应变场景时要冷静，脑子多转一个弯，比如回答问题时要想到对方到底要的是什么，才能回复到点子上；第五，心态问题，真正的优秀不是光看运气看条件，而是在不同优劣的条件下，拥有不同的策略。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;答辩过后，还是有一些感想的。第一，什么事情都要提前准备妥当，时间永远不会是一直充足的；第二，重要的事情要求取过来人的经验，事半功倍；第三，即使有小概率可能发生的事情，也不要松懈，小缺失往往是会受打击的重点；第四，应变场景时要冷静，脑子多转一个弯，比如回答问题时要想到对方到底要的是什么，才能回复到点子上；第五，心态问题，真正的优秀不是光看运气看条件，而是在不同优劣的条件下，拥有不同的策略。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -253,9 +222,7 @@
       <pubDate>Thu, 10 May 2018 13:38:30 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000112/</guid>
-      <description>&lt;p&gt;看着还有一些书都还是新的，觉得自己的时间分配真要重视起来了。不然总是在重蹈覆辄，一直犯下相同的错误。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;看着还有一些书都还是新的，觉得自己的时间分配真要重视起来了。不然总是在重蹈覆辄，一直犯下相同的错误。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -264,9 +231,7 @@
       <pubDate>Fri, 04 May 2018 11:12:25 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000111/</guid>
-      <description>&lt;p&gt;思想和样貌都会随着时间变化，只希望日后能记住自己原本的期待。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;思想和样貌都会随着时间变化，只希望日后能记住自己原本的期待。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -279,9 +244,7 @@
 
 &lt;p&gt;例如，在拨号器中输入 &lt;code&gt;**21*13701110216#&lt;/code&gt; 即可令对方来电提示停机。&lt;/p&gt;
 
-&lt;p&gt;再记录一些详细用法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;再记录一些详细用法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -290,9 +253,7 @@
       <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000108/</guid>
-      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -301,9 +262,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:48 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000107/</guid>
-      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -312,9 +271,7 @@
       <pubDate>Wed, 18 Apr 2018 12:02:57 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000105/</guid>
-      <description>&lt;p&gt;Linux 命令行，将 png 文件转换为 jpg 文件： &lt;code&gt;convert image.png image.jpg&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Linux 命令行，将 png 文件转换为 jpg 文件： &lt;code&gt;convert image.png image.jpg&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -323,9 +280,7 @@
       <pubDate>Sun, 15 Apr 2018 14:09:47 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000104/</guid>
-      <description>&lt;p&gt;对于大部分人来说，无论什么事情做到多么地好，也并不会是最好，因为总有做得更好的人。然而这并不应该成为气馁的理由。要知道，即使是模仿，对于个人来说也是种创造的过程，而创造的行为本身就是快乐的。就我来说，真正的乐趣在于折腾不止，而不是简单重复。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;对于大部分人来说，无论什么事情做到多么地好，也并不会是最好，因为总有做得更好的人。然而这并不应该成为气馁的理由。要知道，即使是模仿，对于个人来说也是种创造的过程，而创造的行为本身就是快乐的。就我来说，真正的乐趣在于折腾不止，而不是简单重复。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -334,9 +289,7 @@
       <pubDate>Fri, 13 Apr 2018 12:21:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000102/</guid>
-      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个用户的 home 目录里的一个文件夹，以防其中的文件被该用户删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个用户的 home 目录里的一个文件夹，以防其中的文件被该用户删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -345,9 +298,7 @@
       <pubDate>Fri, 13 Apr 2018 12:19:02 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000101/</guid>
-      <description>&lt;p&gt;每次重刷机都要查一下去掉信号图标叉号的命令，一直记不住，这次贴上来存着。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;每次重刷机都要查一下去掉信号图标叉号的命令，一直记不住，这次贴上来存着。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -356,9 +307,7 @@
       <pubDate>Thu, 12 Apr 2018 00:04:50 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000100/</guid>
-      <description>&lt;p&gt;闻到丁香花的味道，想起了初中时的日子。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;闻到丁香花的味道，想起了初中时的日子。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -367,9 +316,7 @@
       <pubDate>Wed, 11 Apr 2018 11:10:37 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000099/</guid>
-      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -378,9 +325,7 @@
       <pubDate>Sun, 08 Apr 2018 13:56:13 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000098/</guid>
-      <description>&lt;p&gt;一个人生命中遇到的大部分人（几乎所有人）都只更在乎自己，所以，太不切实际的幻想是无用的；所以，要好好珍视那些更在乎我们的人。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;一个人生命中遇到的大部分人（几乎所有人）都只更在乎自己，所以，太不切实际的幻想是无用的；所以，要好好珍视那些更在乎我们的人。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -389,9 +334,7 @@
       <pubDate>Sun, 08 Apr 2018 01:46:33 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000097/</guid>
-      <description>&lt;p&gt;愈发明白，不要随意许下自己无法实现的承诺。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;愈发明白，不要随意许下自己无法实现的承诺。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -400,9 +343,7 @@
       <pubDate>Fri, 06 Apr 2018 13:14:49 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000096/</guid>
-      <description>&lt;p&gt;这个晚上，又让我觉得，窝在宿舍小桌边，被书、笔记和杂物围绕，面前摆着一些奇奇怪怪的论文，学习一些有趣的知识，是很幸福的事情。但愿我会一直记得这个感觉。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;这个晚上，又让我觉得，窝在宿舍小桌边，被书、笔记和杂物围绕，面前摆着一些奇奇怪怪的论文，学习一些有趣的知识，是很幸福的事情。但愿我会一直记得这个感觉。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -411,9 +352,7 @@
       <pubDate>Thu, 05 Apr 2018 06:09:43 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000095/</guid>
-      <description>&lt;p&gt;凑巧学到了如何让 MySQL 或者 MariaDB 让远程用户连接的方法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;凑巧学到了如何让 MySQL 或者 MariaDB 让远程用户连接的方法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -422,9 +361,7 @@
       <pubDate>Thu, 05 Apr 2018 03:19:35 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000094/</guid>
-      <description>&lt;p&gt;想要把命令行回显的错误信息保存到文件里，使用 &lt;code&gt;command &amp;gt; file&lt;/code&gt; 的方式只能保存正常的输出信息。经查询了解了重定向的相关知识。想要单独输出错误信息，则使用 &lt;code&gt;command 2&amp;gt; file&lt;/code&gt; 这样的命令即可。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;想要把命令行回显的错误信息保存到文件里，使用 &lt;code&gt;command &amp;gt; file&lt;/code&gt; 的方式只能保存正常的输出信息。经查询了解了重定向的相关知识。想要单独输出错误信息，则使用 &lt;code&gt;command 2&amp;gt; file&lt;/code&gt; 这样的命令即可。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -433,9 +370,7 @@
       <pubDate>Wed, 04 Apr 2018 02:34:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000093/</guid>
-      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -444,9 +379,7 @@
       <pubDate>Wed, 04 Apr 2018 02:27:32 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000092/</guid>
-      <description>&lt;p&gt;记录一个用 jQuery 实现点击锚点链接后平滑移动的方法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;记录一个用 jQuery 实现点击锚点链接后平滑移动的方法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -455,9 +388,7 @@
       <pubDate>Tue, 03 Apr 2018 08:15:12 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000091/</guid>
-      <description>&lt;p&gt;冷静地想了想，我似乎在最初的道路上越偏越远了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冷静地想了想，我似乎在最初的道路上越偏越远了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -472,9 +403,7 @@
 
 &lt;p&gt;受不了鼻子痒痒和鼻塞就要吃缓解过敏的药物，该药会导致嗜睡、乏力和胃炎。吃完后整天想睡觉，啥也不想干，而且担心伤胃。&lt;/p&gt;
 
-&lt;p&gt;我：绝望的眼神。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;我：绝望的眼神。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -483,9 +412,7 @@
       <pubDate>Sun, 01 Apr 2018 13:03:11 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000089/</guid>
-      <description>&lt;p&gt;和人心相关的事情，从来都不会是一个简单的过程。缓慢，反复，需要耐心。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;和人心相关的事情，从来都不会是一个简单的过程。缓慢，反复，需要耐心。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -494,9 +421,7 @@
       <pubDate>Sun, 25 Mar 2018 14:25:29 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000086/</guid>
-      <description>&lt;p&gt;沉默的时候，谁能读懂我呢。也许是该放下一点了，我的心最近太喧闹了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;沉默的时候，谁能读懂我呢。也许是该放下一点了，我的心最近太喧闹了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -505,9 +430,7 @@
       <pubDate>Sun, 25 Mar 2018 00:37:48 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000085/</guid>
-      <description>&lt;p&gt;前几日看到隔壁学校的公众号文章，说他们大服里卖吃食的店面都关闭了，人去楼空。回忆起曾经在那里和人度过的时光，我想去那儿，再看上一眼。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;前几日看到隔壁学校的公众号文章，说他们大服里卖吃食的店面都关闭了，人去楼空。回忆起曾经在那里和人度过的时光，我想去那儿，再看上一眼。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -518,9 +441,7 @@
       <guid>https://lsal.me/posts/000084/</guid>
       <description>&lt;p&gt;If you want to keep a secret, you must also hide it from yourself.&lt;/p&gt;
 
-&lt;p&gt;— George Orwell, Nineteen Eighty-four&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;— George Orwell, Nineteen Eighty-four&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -533,9 +454,7 @@
 
 &lt;p&gt;凤姐儿笑道：“外头已经四更多了，依我说：老祖宗也乏了，咱们也该‘聋子放炮仗——散了罢’。”尤氏等用绢子握着嘴，笑的前仰后合，指他说道：“这个东西真会数贫嘴！”贾母笑道：“真真这凤丫头，越发炼贫了！”一面说，一面吩咐道：“他提起炮仗来，咱们也把烟火放了，解解酒。”&lt;/p&gt;
 
-&lt;p&gt;摘自《红楼梦》&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;摘自《红楼梦》&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -570,9 +489,7 @@
 
 &lt;p&gt;甚荒唐，到头来都是为他人作嫁衣裳。&lt;/p&gt;
 
-&lt;p&gt;摘自《红楼梦》&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;摘自《红楼梦》&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -581,9 +498,7 @@
       <pubDate>Sat, 17 Mar 2018 01:55:56 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000080/</guid>
-      <description>&lt;p&gt;当想起自己早晚会成为一撮灰的时候，一切都安静淡然下来了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;当想起自己早晚会成为一撮灰的时候，一切都安静淡然下来了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -592,9 +507,7 @@
       <pubDate>Tue, 13 Mar 2018 03:05:39 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000078/</guid>
-      <description>&lt;p&gt;甚荒唐。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;甚荒唐。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -603,9 +516,7 @@
       <pubDate>Fri, 02 Mar 2018 13:36:32 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000075/</guid>
-      <description>&lt;p&gt;杯莫停。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;杯莫停。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -618,9 +529,7 @@
 
 &lt;pre&gt;&lt;code&gt;opkg update
 opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -629,9 +538,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Sun, 25 Feb 2018 07:07:18 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000073/</guid>
-      <description>&lt;p&gt;“Seven times I have despised my soul:&lt;br&gt;The first time when I saw her being meek that she might attain height.&lt;br&gt;The second time when I saw her limping before the crippled.&lt;br&gt;The third time when she was given to choose between the hard and the easy, and she chose the easy.&lt;br&gt;The fourth time when she committed a wrong, and comforted herself that others also commit wrong.&lt;br&gt;The fifth time when she forbode for weakness, and attributed her patience to strength.&lt;br&gt;The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.&lt;br&gt;And the seventh time when she sang a song of praise, and deemed it a virtue.”&lt;br&gt;&lt;br&gt;― Kahlil Gibran, Sand and Foam&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;“Seven times I have despised my soul:&lt;br&gt;The first time when I saw her being meek that she might attain height.&lt;br&gt;The second time when I saw her limping before the crippled.&lt;br&gt;The third time when she was given to choose between the hard and the easy, and she chose the easy.&lt;br&gt;The fourth time when she committed a wrong, and comforted herself that others also commit wrong.&lt;br&gt;The fifth time when she forbode for weakness, and attributed her patience to strength.&lt;br&gt;The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.&lt;br&gt;And the seventh time when she sang a song of praise, and deemed it a virtue.”&lt;br&gt;&lt;br&gt;― Kahlil Gibran, Sand and Foam&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -664,9 +571,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 &lt;li&gt;&lt;p&gt;与其怀疑「它们」，何不怀疑自己的无知、自以为是、执著和逃避。我们对于解释实相的热衷追求？&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;把怀疑的狗转向怀疑本身，揭开嘲讽的面具，看看到底是什么样的恐惧、失望、无助感和烦人的状况引发了这些怀疑。如果能这样做，怀疑就不再是一种障碍，而是证悟之门，每当心中有所怀疑时，修行人就会迎接它，视为深入真理的方法。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -675,9 +580,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Mon, 19 Feb 2018 22:44:34 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000070/</guid>
-      <description>&lt;p&gt;起床喝一杯清凉的水，心情好了许多。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;起床喝一杯清凉的水，心情好了许多。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -686,9 +589,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Sat, 17 Feb 2018 10:56:13 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000068/</guid>
-      <description>&lt;p&gt;When all the world goes one road, I go the other.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;When all the world goes one road, I go the other.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -697,9 +598,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Thu, 15 Feb 2018 10:16:18 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000067/</guid>
-      <description>&lt;p&gt;若无聪明友共行，善住贤者汝等得，如王征服舍国土，应如犀牛任独行。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;若无聪明友共行，善住贤者汝等得，如王征服舍国土，应如犀牛任独行。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -708,9 +607,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Wed, 14 Feb 2018 13:35:44 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000066/</guid>
-      <description>&lt;p&gt;有时候，拒绝别人会让我心里不好受。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;有时候，拒绝别人会让我心里不好受。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -719,9 +616,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Tue, 13 Feb 2018 11:50:16 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000065/</guid>
-      <description>&lt;p&gt;希望我的心能安静朴实下来。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;希望我的心能安静朴实下来。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -734,9 +629,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 
 &lt;p&gt;《丑奴儿·书博山道中壁》 辛弃疾&lt;/p&gt;
 
-&lt;p&gt;少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。&lt;br&gt;而今识尽愁滋味，欲说还休。欲说还休，却道天凉好个秋。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。&lt;br&gt;而今识尽愁滋味，欲说还休。欲说还休，却道天凉好个秋。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -745,9 +638,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Wed, 07 Feb 2018 01:33:56 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000062/</guid>
-      <description>&lt;p&gt;I have missed you, a little bit, Hyoscyamus niger.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have missed you, a little bit, Hyoscyamus niger.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -756,9 +647,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Wed, 07 Feb 2018 01:07:50 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000061/</guid>
-      <description>&lt;p&gt;既要服输，也要不服输。服输是输得起，接纳自己的错误并尽可能改正；不服输是对于可行的事情，不要放弃，付出行动去做好。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;既要服输，也要不服输。服输是输得起，接纳自己的错误并尽可能改正；不服输是对于可行的事情，不要放弃，付出行动去做好。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -776,9 +665,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 
 &lt;p&gt;&lt;a href=&#34;https://forum.manjaro.org/t/xfce-desktop-text-shadow-offset/39309/3&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://askubuntu.com/questions/801460/how-to-center-text-in-xfce-desktop/801478&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://askubuntu.com/questions/801460/how-to-center-text-in-xfce-desktop/801478&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -787,9 +674,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Tue, 06 Feb 2018 03:16:51 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000059/</guid>
-      <description>&lt;p&gt;对于孩童，年长者有几个身份：哥哥、姐姐；叔叔、阿姨；老爷爷、老奶奶。今天剪头发时一个小朋友对我的称呼让我恍然意识到，我已经步入漫长的第二阶段了 : ) 。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;对于孩童，年长者有几个身份：哥哥、姐姐；叔叔、阿姨；老爷爷、老奶奶。今天剪头发时一个小朋友对我的称呼让我恍然意识到，我已经步入漫长的第二阶段了 : ) 。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -798,9 +683,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Tue, 06 Feb 2018 03:15:17 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000058/</guid>
-      <description>&lt;p&gt;人们需要隐私，因为总会有人依据表面的现象，用自己的见解妄图揣测出他人的一切。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;人们需要隐私，因为总会有人依据表面的现象，用自己的见解妄图揣测出他人的一切。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -809,9 +692,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Sat, 03 Feb 2018 13:19:54 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000056/</guid>
-      <description>&lt;p&gt;能安逸的学习，也是一件如此幸福的事情。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;能安逸的学习，也是一件如此幸福的事情。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -820,9 +701,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Wed, 31 Jan 2018 13:59:26 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000055/</guid>
-      <description>&lt;p&gt;主页小小地重新设计了一下，算是迎接新年了。希望今后我能把写东西这个事情坚持下来。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;主页小小地重新设计了一下，算是迎接新年了。希望今后我能把写东西这个事情坚持下来。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -831,9 +710,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Tue, 30 Jan 2018 14:58:25 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000054/</guid>
-      <description>&lt;p&gt;昨晚梦到了一个高中同学，梦到他在超市里买东西，心情很好，哼着小调。我感觉到他发现了我在他身旁，但他看到我后变得很生气的样子。好像是因为我很长时间没有联系他，像把他忘了一样，他觉得我有些负义。其实不然，我也有自己的难处和辛苦。我没好意思说什么话，匆匆地走了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;昨晚梦到了一个高中同学，梦到他在超市里买东西，心情很好，哼着小调。我感觉到他发现了我在他身旁，但他看到我后变得很生气的样子。好像是因为我很长时间没有联系他，像把他忘了一样，他觉得我有些负义。其实不然，我也有自己的难处和辛苦。我没好意思说什么话，匆匆地走了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -842,9 +719,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Sun, 28 Jan 2018 12:50:46 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000053/</guid>
-      <description>&lt;p&gt;愈发感到自己的差距，细细地学习吧。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;愈发感到自己的差距，细细地学习吧。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -853,9 +728,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
       <pubDate>Thu, 25 Jan 2018 12:36:25 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000052/</guid>
-      <description>&lt;p&gt;一天下来，有几点想法。一是，眼界和环境决定了目标和动力；二是，抬头看看天，可能真的就是井口大小，思维要跳出去才有广阔天地；三是，很少有事情和道理是绝对的，在 0 与 1 之间，善守本心；四是，我曾经相信，现在仍在坚持的是，人性是多面的，任何行为都可以被理解，不理解是因为不了解原因；五是，厚重之力，当绵绵不绝。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;一天下来，有几点想法。一是，眼界和环境决定了目标和动力；二是，抬头看看天，可能真的就是井口大小，思维要跳出去才有广阔天地；三是，很少有事情和道理是绝对的，在 0 与 1 之间，善守本心；四是，我曾经相信，现在仍在坚持的是，人性是多面的，任何行为都可以被理解，不理解是因为不了解原因；五是，厚重之力，当绵绵不绝。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -868,9 +741,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 
 &lt;pre&gt;&lt;code&gt;set nocompatible
 set backspace=2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -879,9 +750,7 @@ set backspace=2
       <pubDate>Tue, 23 Jan 2018 02:25:15 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000050/</guid>
-      <description>&lt;p&gt;一个人的命运，真的能自己左右吗？现在想来，一半也能，一半不能，能的那半靠自己的心性去争得生机，不能的那半仿佛注定，现实总有些限制。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;一个人的命运，真的能自己左右吗？现在想来，一半也能，一半不能，能的那半靠自己的心性去争得生机，不能的那半仿佛注定，现实总有些限制。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -890,9 +759,7 @@ set backspace=2
       <pubDate>Sat, 20 Jan 2018 09:03:55 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000049/</guid>
-      <description>&lt;p&gt;计算机的稳定运行有很多条件，外界的环境、提供的能源，和存储设备、处理器的本身的性能。可靠性并非有多高。但相较于复杂的人情，多变的人性，计算机既诚实又可靠。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;计算机的稳定运行有很多条件，外界的环境、提供的能源，和存储设备、处理器的本身的性能。可靠性并非有多高。但相较于复杂的人情，多变的人性，计算机既诚实又可靠。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -903,9 +770,7 @@ set backspace=2
       <guid>https://lsal.me/posts/000047/</guid>
       <description>&lt;p&gt;洗头发的时候想到了初中的同学们。初中阑尾炎手术住院时，班长刘佳还过来看我。本身我也不爱凑热闹去聚会，所以和这些人的联系也随着我的转班几乎消失了。不知道他们还好吗，各自的人生都有什么变化？&lt;/p&gt;
 
-&lt;p&gt;和高中两个要好同学的联系也渐渐淡了，跟其中的一个许久没了交流。想念你们，等我度过这一年，2019，希望还能和你们见面好好聊聊天。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;和高中两个要好同学的联系也渐渐淡了，跟其中的一个许久没了交流。想念你们，等我度过这一年，2019，希望还能和你们见面好好聊聊天。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -914,9 +779,7 @@ set backspace=2
       <pubDate>Fri, 12 Jan 2018 14:56:03 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000045/</guid>
-      <description>&lt;p&gt;又在自己的 ZeroNet 博客上动了一些手脚，已是深夜，准备去睡觉。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;又在自己的 ZeroNet 博客上动了一些手脚，已是深夜，准备去睡觉。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -925,9 +788,7 @@ set backspace=2
       <pubDate>Thu, 11 Jan 2018 08:39:08 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000044/</guid>
-      <description>&lt;p&gt;“久旱逢甘霖，他乡遇故知，洞房花烛夜，金榜题名时。” 这是老话讲的人生四大喜事。写的正是生活，有孤独，也有热闹的烟火味，有希望，有期待。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;“久旱逢甘霖，他乡遇故知，洞房花烛夜，金榜题名时。” 这是老话讲的人生四大喜事。写的正是生活，有孤独，也有热闹的烟火味，有希望，有期待。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -936,9 +797,7 @@ set backspace=2
       <pubDate>Mon, 01 Jan 2018 06:46:39 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000042/</guid>
-      <description>&lt;p&gt;恍然已是 2018 年了，推特上看到一则推文，最后一句话是，“感嘆每個人都有自己的人生功課”。时光最不负人，要来的都会来，该走的绝不会停留。成长到如今，我不再期盼尘埃落定这种童话，但我知道，如果不放弃，总有新的力气会长出来。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;恍然已是 2018 年了，推特上看到一则推文，最后一句话是，“感嘆每個人都有自己的人生功課”。时光最不负人，要来的都会来，该走的绝不会停留。成长到如今，我不再期盼尘埃落定这种童话，但我知道，如果不放弃，总有新的力气会长出来。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -947,9 +806,7 @@ set backspace=2
       <pubDate>Wed, 27 Dec 2017 05:45:03 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000041/</guid>
-      <description>&lt;p&gt;经历许多之后，总觉得发点什么会显得很俗。我还在内敛的过程中，慢慢收起自己空举着的触角，把能量留给最重要的事情。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;经历许多之后，总觉得发点什么会显得很俗。我还在内敛的过程中，慢慢收起自己空举着的触角，把能量留给最重要的事情。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -958,9 +815,7 @@ set backspace=2
       <pubDate>Mon, 18 Dec 2017 07:09:41 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000038/</guid>
-      <description>&lt;p&gt;好奇怪呀，我们突然离开。走的越来越远，却又那么相似。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;好奇怪呀，我们突然离开。走的越来越远，却又那么相似。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -969,9 +824,7 @@ set backspace=2
       <pubDate>Fri, 01 Dec 2017 01:38:32 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000031/</guid>
-      <description>&lt;p&gt;王子每次趴到小窝里的时候都要舒服地哼哼两声，它睡觉的样子很像火狐的图标。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;王子每次趴到小窝里的时候都要舒服地哼哼两声，它睡觉的样子很像火狐的图标。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -984,9 +837,7 @@ set backspace=2
 
 &lt;p&gt;Where is it now, the glory and the dream?&lt;/p&gt;
 
-&lt;p&gt;— William Wordsworth, Ode: Intimations of Immortality from Recollections of Early Childhood&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;— William Wordsworth, Ode: Intimations of Immortality from Recollections of Early Childhood&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -995,9 +846,7 @@ set backspace=2
       <pubDate>Sun, 19 Nov 2017 09:50:03 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000028/</guid>
-      <description>&lt;p&gt;地上有雪的夜，真的很喜欢。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;地上有雪的夜，真的很喜欢。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1006,9 +855,7 @@ set backspace=2
       <pubDate>Mon, 13 Nov 2017 04:07:19 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000027/</guid>
-      <description>&lt;p&gt;我一直认为自己不懂爱。可如今我对人更有悲悯，但不是自上而下的怜悯。我发现他们比我更不懂爱，我想寻求真相。至少要能肤浅地理解别人。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;我一直认为自己不懂爱。可如今我对人更有悲悯，但不是自上而下的怜悯。我发现他们比我更不懂爱，我想寻求真相。至少要能肤浅地理解别人。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1017,9 +864,7 @@ set backspace=2
       <pubDate>Mon, 13 Nov 2017 04:06:03 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000026/</guid>
-      <description>&lt;p&gt;The way way back.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The way way back.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1028,9 +873,7 @@ set backspace=2
       <pubDate>Thu, 09 Nov 2017 12:48:54 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000024/</guid>
-      <description>&lt;p&gt;人总是在得到的那一刻，明白外境并不能给予快乐。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;人总是在得到的那一刻，明白外境并不能给予快乐。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1041,9 +884,7 @@ set backspace=2
       <guid>https://lsal.me/posts/000023/</guid>
       <description>&lt;p&gt;下午手机没电，学了一会儿习，其间思虑很多，晚上看到友人说：“其实，彩虹不只在白天才能看见。”&lt;/p&gt;
 
-&lt;p&gt;愿众安好，我亦飞翔。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;愿众安好，我亦飞翔。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1054,9 +895,7 @@ set backspace=2
       <guid>https://lsal.me/posts/000022/</guid>
       <description>&lt;p&gt;Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.&lt;/p&gt;
 
-&lt;p&gt;― J.K. Rowling, Harry Potter and the Deathly Hallows&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;― J.K. Rowling, Harry Potter and the Deathly Hallows&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1073,9 +912,7 @@ set backspace=2
 
 &lt;p&gt;感觉我高中还是背了不少黑锅的。好吧，这是来吐血槽的。&lt;/p&gt;
 
-&lt;p&gt;若再回顾初中和大学事，我似乎也一直是被人误会的角色。但我懒得解释。虽然自认不是好人，但相比于一些人暗自揣测或道听途说的印象，我真的要太善良了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;若再回顾初中和大学事，我似乎也一直是被人误会的角色。但我懒得解释。虽然自认不是好人，但相比于一些人暗自揣测或道听途说的印象，我真的要太善良了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1084,9 +921,7 @@ set backspace=2
       <pubDate>Wed, 08 Nov 2017 08:38:11 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000020/</guid>
-      <description>&lt;p&gt;我不记得高中学校的窗帘是什么样子的了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;我不记得高中学校的窗帘是什么样子的了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1095,9 +930,7 @@ set backspace=2
       <pubDate>Tue, 07 Nov 2017 12:16:53 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000019/</guid>
-      <description>&lt;p&gt;删删减减，简化生活。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;删删减减，简化生活。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1106,9 +939,7 @@ set backspace=2
       <pubDate>Wed, 01 Nov 2017 10:01:26 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000014/</guid>
-      <description>&lt;p&gt;累和辛苦都只需要对自己说。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;累和辛苦都只需要对自己说。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1117,9 +948,7 @@ set backspace=2
       <pubDate>Tue, 31 Oct 2017 12:14:53 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000013/</guid>
-      <description>&lt;p&gt;仔细想想，有时候我怀念的不是某个真正的人，而是一个残影，是我过去的感觉。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;仔细想想，有时候我怀念的不是某个真正的人，而是一个残影，是我过去的感觉。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1128,9 +957,7 @@ set backspace=2
       <pubDate>Tue, 31 Oct 2017 12:13:37 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000012/</guid>
-      <description>&lt;p&gt;我希望我自己不要把无知当个性，不要只活在自己的圈子里不知道往外看，不要一叶障目，不要觉得自己高人一等，不要因为傲慢阻挡缘分，不要因为心软害了身边人。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;我希望我自己不要把无知当个性，不要只活在自己的圈子里不知道往外看，不要一叶障目，不要觉得自己高人一等，不要因为傲慢阻挡缘分，不要因为心软害了身边人。&lt;/p&gt;</description>
     </item>
     
     <item>

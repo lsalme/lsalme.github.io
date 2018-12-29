@@ -17,9 +17,7 @@
       <pubDate>Sat, 28 Jul 2018 11:33:04 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000130/</guid>
-      <description>&lt;p&gt;想尝试一下在 Debian 用 KDE 桌面，于是执行了 &lt;code&gt;apt install kde-full&lt;/code&gt; ，然而却报出了许多 &lt;code&gt;dpkg error&lt;/code&gt; ，后来发现是因为一个配置文件找不到导致的一系列错误。可是在卸载清理过程中也因同样的原因出错，而且当时没有意识到，所以乱删了很多东西。无奈最后只好翻 &lt;code&gt;/var/log/dpkg.log&lt;/code&gt;，把误删除的重新安装。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;想尝试一下在 Debian 用 KDE 桌面，于是执行了 &lt;code&gt;apt install kde-full&lt;/code&gt; ，然而却报出了许多 &lt;code&gt;dpkg error&lt;/code&gt; ，后来发现是因为一个配置文件找不到导致的一系列错误。可是在卸载清理过程中也因同样的原因出错，而且当时没有意识到，所以乱删了很多东西。无奈最后只好翻 &lt;code&gt;/var/log/dpkg.log&lt;/code&gt;，把误删除的重新安装。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@
       <pubDate>Sun, 22 Jul 2018 08:20:19 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000129/</guid>
-      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +35,7 @@
       <pubDate>Sun, 22 Jul 2018 07:03:39 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000128/</guid>
-      <description>&lt;p&gt;Android 系统设置里不能把时区更改为 UTC，只能通过模拟终端或 ADB 解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Android 系统设置里不能把时区更改为 UTC，只能通过模拟终端或 ADB 解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +44,7 @@
       <pubDate>Mon, 09 Jul 2018 15:19:55 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000125/</guid>
-      <description>&lt;p&gt;由于相隔不远的邻居家失火，下楼前拉电闸断电了。回来的时候树莓派从突然断电的事件中重新开机，无法连接有线网络了。查看 &lt;code&gt;/etc/network/interfaces.d&lt;/code&gt; ，里面空空如也。故添加了一个 &lt;code&gt;eth0&lt;/code&gt; 文件。重启后问题得到解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;由于相隔不远的邻居家失火，下楼前拉电闸断电了。回来的时候树莓派从突然断电的事件中重新开机，无法连接有线网络了。查看 &lt;code&gt;/etc/network/interfaces.d&lt;/code&gt; ，里面空空如也。故添加了一个 &lt;code&gt;eth0&lt;/code&gt; 文件。重启后问题得到解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +53,7 @@
       <pubDate>Fri, 29 Jun 2018 23:16:22 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000121/</guid>
-      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,9 +66,7 @@
 
 &lt;p&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.&lt;/p&gt;
 
-&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,9 +75,7 @@
       <pubDate>Wed, 27 Jun 2018 00:27:05 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000119/</guid>
-      <description>&lt;p&gt;命令行解决 Linux 下解压 Windows 压缩的 zip 文件，和打开 Windows 下创建的 txt 文件，出现的中文乱码问题。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;命令行解决 Linux 下解压 Windows 压缩的 zip 文件，和打开 Windows 下创建的 txt 文件，出现的中文乱码问题。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -98,9 +84,7 @@
       <pubDate>Sun, 24 Jun 2018 02:10:57 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000118/</guid>
-      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -113,9 +97,7 @@
 
 &lt;p&gt;例如，在拨号器中输入 &lt;code&gt;**21*13701110216#&lt;/code&gt; 即可令对方来电提示停机。&lt;/p&gt;
 
-&lt;p&gt;再记录一些详细用法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;再记录一些详细用法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -124,9 +106,7 @@
       <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000108/</guid>
-      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -135,9 +115,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:48 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000107/</guid>
-      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -146,9 +124,7 @@
       <pubDate>Wed, 18 Apr 2018 12:02:57 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000105/</guid>
-      <description>&lt;p&gt;Linux 命令行，将 png 文件转换为 jpg 文件： &lt;code&gt;convert image.png image.jpg&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Linux 命令行，将 png 文件转换为 jpg 文件： &lt;code&gt;convert image.png image.jpg&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -157,9 +133,7 @@
       <pubDate>Fri, 13 Apr 2018 12:21:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000102/</guid>
-      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个用户的 home 目录里的一个文件夹，以防其中的文件被该用户删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;用户 &lt;code&gt;user&lt;/code&gt; 不在 &lt;code&gt;sudo&lt;/code&gt; 组，想要保护一个用户的 home 目录里的一个文件夹，以防其中的文件被该用户删除。可修改目录和文件的权限和所有者来实现。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -168,9 +142,7 @@
       <pubDate>Fri, 13 Apr 2018 12:19:02 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000101/</guid>
-      <description>&lt;p&gt;每次重刷机都要查一下去掉信号图标叉号的命令，一直记不住，这次贴上来存着。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;每次重刷机都要查一下去掉信号图标叉号的命令，一直记不住，这次贴上来存着。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -179,9 +151,7 @@
       <pubDate>Wed, 11 Apr 2018 11:10:37 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000099/</guid>
-      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -190,9 +160,7 @@
       <pubDate>Thu, 05 Apr 2018 06:09:43 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000095/</guid>
-      <description>&lt;p&gt;凑巧学到了如何让 MySQL 或者 MariaDB 让远程用户连接的方法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;凑巧学到了如何让 MySQL 或者 MariaDB 让远程用户连接的方法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -201,9 +169,7 @@
       <pubDate>Thu, 05 Apr 2018 03:19:35 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000094/</guid>
-      <description>&lt;p&gt;想要把命令行回显的错误信息保存到文件里，使用 &lt;code&gt;command &amp;gt; file&lt;/code&gt; 的方式只能保存正常的输出信息。经查询了解了重定向的相关知识。想要单独输出错误信息，则使用 &lt;code&gt;command 2&amp;gt; file&lt;/code&gt; 这样的命令即可。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;想要把命令行回显的错误信息保存到文件里，使用 &lt;code&gt;command &amp;gt; file&lt;/code&gt; 的方式只能保存正常的输出信息。经查询了解了重定向的相关知识。想要单独输出错误信息，则使用 &lt;code&gt;command 2&amp;gt; file&lt;/code&gt; 这样的命令即可。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -212,9 +178,7 @@
       <pubDate>Wed, 04 Apr 2018 02:34:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000093/</guid>
-      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,9 +187,7 @@
       <pubDate>Wed, 04 Apr 2018 02:27:32 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000092/</guid>
-      <description>&lt;p&gt;记录一个用 jQuery 实现点击锚点链接后平滑移动的方法。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;记录一个用 jQuery 实现点击锚点链接后平滑移动的方法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -238,9 +200,7 @@
 
 &lt;pre&gt;&lt;code&gt;opkg update
 opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -258,9 +218,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 
 &lt;p&gt;&lt;a href=&#34;https://forum.manjaro.org/t/xfce-desktop-text-shadow-offset/39309/3&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://askubuntu.com/questions/801460/how-to-center-text-in-xfce-desktop/801478&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://askubuntu.com/questions/801460/how-to-center-text-in-xfce-desktop/801478&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -273,9 +231,7 @@ opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
 
 &lt;pre&gt;&lt;code&gt;set nocompatible
 set backspace=2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

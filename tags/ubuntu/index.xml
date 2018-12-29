@@ -17,9 +17,7 @@
       <pubDate>Fri, 29 Jun 2018 23:16:22 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000121/</guid>
-      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;使用 Ubuntu 18.04 的安装镜像中的安装器，选择全盘使用并加密磁盘的方式，其交换空间 swap 默认划分的过小，不管物理内存多大，都是 998 MB。这给某些使用情景带来了不便。由于进行了加密，再次划分 swap 比较繁琐，目前可以使用 swapfile 的方式新建空间。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@
       <pubDate>Sun, 24 Jun 2018 02:10:57 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000118/</guid>
-      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;隐藏 &lt;code&gt;snap&lt;/code&gt; 在 &lt;code&gt;home&lt;/code&gt; 文件夹下的显示。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +35,7 @@
       <pubDate>Fri, 27 Apr 2018 06:42:34 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000108/</guid>
-      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;之前自己手动把 Ubuntu 的 &lt;code&gt;sources.list&lt;/code&gt; 改得乱七八糟的，恢复默认的办法是…… &lt;code&gt;rm&lt;/code&gt; 后重新生成。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +44,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:48 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000107/</guid>
-      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;今天可以正式更新到 Ubuntu 18.04 了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +53,7 @@
       <pubDate>Wed, 11 Apr 2018 11:10:37 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000099/</guid>
-      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;帮同学装了 Ubuntu，之前装过很多次，但是似乎没有怎么注意一些问题。记录一下。&lt;/p&gt;</description>
     </item>
     
   </channel>

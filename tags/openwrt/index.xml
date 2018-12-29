@@ -21,9 +21,7 @@
 
 &lt;p&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.&lt;/p&gt;
 
-&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,9 +34,7 @@
 
 &lt;pre&gt;&lt;code&gt;opkg update
 opkg list-upgradable | cut -f 1 -d &#39; &#39; | xargs opkg upgrade
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
