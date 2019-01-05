@@ -6,10 +6,19 @@
     <description>Recent content on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Dec 2018 02:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 07:43:15 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HP 战 99 笔记本 Ubuntu 安装笔记</title>
+      <link>https://lsal.me/posts/000136/</link>
+      <pubDate>Tue, 01 Jan 2019 07:43:15 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000136/</guid>
+      <description>&lt;p&gt;新买的电脑到了之后，放弃了预装的 Windows 10 Home，改装 Debian 或者 Ubuntu，然而 Debian 安装过程中不识别有线网卡和无线网卡，需要用移动介质来提供驱动文件，比较麻烦，干脆选择安装 Ubuntu 。过程中也遇到了几个问题，记录之。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>归</title>
