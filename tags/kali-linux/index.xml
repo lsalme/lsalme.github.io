@@ -17,7 +17,15 @@
       <pubDate>Sun, 22 Jul 2018 08:20:19 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000129/</guid>
-      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;</description>
+      <description>&lt;p&gt;发现 Magisk 模块中有一个支持安装 Kali Linux Nethunter 的。安装好 Chroot 之后想要更新一下软件包，发现升级验证所需的密钥过期。 重新获得公钥即可。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;或&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
