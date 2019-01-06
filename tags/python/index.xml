@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Microdream</title>
+    <link>https://lsal.me/tags/python/</link>
+    <description>Recent content in Python on Microdream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Jan 2019 01:52:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://lsal.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 下安装 pip 遇到的问题</title>
+      <link>https://lsal.me/posts/000137/</link>
+      <pubDate>Sun, 06 Jan 2019 01:52:06 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000137/</guid>
+      <description>&lt;p&gt;安装时产生错误 &lt;code&gt;ImportError: cannot import name &#39;sysconfig&#39;&lt;/code&gt; ，原因是缺少依赖，故记录之。&lt;/p&gt;
+
+&lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python3 get-pip.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;报错&#34;&gt;报错&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Traceback (most recent call last):
+  File &amp;quot;get-pip.py&amp;quot;, line 20649, in &amp;lt;module&amp;gt;
+    main()
+  File &amp;quot;get-pip.py&amp;quot;, line 197, in main
+    bootstrap(tmpdir=tmpdir)
+  File &amp;quot;get-pip.py&amp;quot;, line 82, in bootstrap
+    import pip._internal
+  File &amp;quot;/tmp/tmpaa4p6j0e/pip.zip/pip/_internal/__init__.py&amp;quot;, line 42, in &amp;lt;module&amp;gt;
+  File &amp;quot;/tmp/tmpaa4p6j0e/pip.zip/pip/_internal/cmdoptions.py&amp;quot;, line 16, in &amp;lt;module&amp;gt;
+  File &amp;quot;/tmp/tmpaa4p6j0e/pip.zip/pip/_internal/index.py&amp;quot;, line 25, in &amp;lt;module&amp;gt;
+  File &amp;quot;/tmp/tmpaa4p6j0e/pip.zip/pip/_internal/download.py&amp;quot;, line 35, in &amp;lt;module&amp;gt;
+  File &amp;quot;/tmp/tmpaa4p6j0e/pip.zip/pip/_internal/locations.py&amp;quot;, line 10, in &amp;lt;module&amp;gt;
+ImportError: cannot import name &#39;sysconfig&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;解决&#34;&gt;解决&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt install python3-distutils
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
