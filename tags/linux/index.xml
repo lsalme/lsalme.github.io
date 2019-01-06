@@ -6,10 +6,44 @@
     <description>Recent content in Linux on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jun 2018 00:27:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 02:00:50 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux 中批量替换目录下所有文件内容</title>
+      <link>https://lsal.me/posts/000138/</link>
+      <pubDate>Sun, 06 Jan 2019 02:00:50 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000138/</guid>
+      <description>&lt;p&gt;记录命令行替换内容和标题的基本方法。&lt;/p&gt;
+
+&lt;h3 id=&#34;替换内容&#34;&gt;替换内容&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;sed -i &amp;quot;s/oldString/newString/g&amp;quot;  `grep oldString -rl /path`
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;替换标题&#34;&gt;替换标题&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;rename [-v] [-n] [-f] perlexpr [filenames]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;其中：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;v 显示文件重命名的细节&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;n 不执行重命名，但会模拟执行重命名，并显示会出现的情况，例如是否会有同名文件冲突等。在重命名前测试很有用。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;f 强制覆盖同名文件&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;例如：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rename &amp;quot;s/small/large/&amp;quot; image_*.png
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title>Linux 下中文乱码解决</title>
