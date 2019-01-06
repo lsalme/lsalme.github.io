@@ -6,10 +6,37 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jan 2019 02:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 06:12:17 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源的机器学习鉴黄项目</title>
+      <link>https://lsal.me/posts/000140/</link>
+      <pubDate>Sun, 06 Jan 2019 06:12:17 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000140/</guid>
+      <description>&lt;p&gt;和人讨论之后，了解了一些利用机器学习判断 NSFW 图片的开源项目，记录之。&lt;/p&gt;
+
+&lt;h3 id=&#34;yahoo-open-nsfw&#34;&gt;Yahoo Open NSFW&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yahoo/open_nsfw&#34; target=&#34;_blank&#34;&gt;yahoo/open_nsfw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://open_nsfw.gitlab.io/&#34; target=&#34;_blank&#34;&gt;Image Synthesis from Yahoo&amp;rsquo;s open_nsfw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mdietrichstein/tensorflow-open_nsfw&#34; target=&#34;_blank&#34;&gt;mdietrichstein/tensorflow-open_nsfw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jgarber623/python-nsfw&#34; target=&#34;_blank&#34;&gt;jgarber623/python-nsfw&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;nsfw-detection&#34;&gt;NSFW-detection&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/minto5050/NSFW-detection&#34; target=&#34;_blank&#34;&gt;minto5050/NSFW-detection&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mosaic&#34;&gt;Mosaic&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/boozyguo/mosaic&#34; target=&#34;_blank&#34;&gt;boozyguo/mosaic&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Linux 中批量替换目录下所有文件内容</title>
