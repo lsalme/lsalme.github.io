@@ -6,10 +6,19 @@
     <description>Recent content in Text on Microdream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jan 2019 06:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jan 2019 14:30:17 +0000</lastBuildDate>
     
 	<atom:link href="https://lsal.me/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>小结</title>
+      <link>https://lsal.me/posts/000142/</link>
+      <pubDate>Tue, 08 Jan 2019 14:30:17 +0000</pubDate>
+      
+      <guid>https://lsal.me/posts/000142/</guid>
+      <description>&lt;p&gt;前期工作已经基本完成了，到了执行各干货的时候了。按部就班。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Linux 中登录多个 Telegram 帐号</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsal.me/posts/000142/</loc>
+    <lastmod>2019-01-08T14:30:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/000141/</loc>
     <lastmod>2019-01-06T06:38:59+00:00</lastmod>
   </url>
@@ -727,7 +732,7 @@
   
   <url>
     <loc>https://lsal.me/tags/life/</loc>
-    <lastmod>2018-12-29T02:51:58+00:00</lastmod>
+    <lastmod>2019-01-08T14:30:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -757,18 +762,18 @@
   
   <url>
     <loc>https://lsal.me/</loc>
-    <lastmod>2019-01-06T06:38:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lsal.me/tags/music/</loc>
-    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
+    <lastmod>2019-01-08T14:30:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lsal.me/categories/music/</loc>
+    <lastmod>2018-06-11T06:18:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsal.me/tags/music/</loc>
     <lastmod>2018-06-11T06:18:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -786,20 +791,20 @@
   </url>
   
   <url>
-    <loc>https://lsal.me/tags/photo/</loc>
-    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lsal.me/categories/photo/</loc>
     <lastmod>2018-04-26T11:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://lsal.me/tags/photo/</loc>
+    <lastmod>2018-04-26T11:14:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lsal.me/posts/</loc>
-    <lastmod>2019-01-06T06:38:59+00:00</lastmod>
+    <lastmod>2019-01-08T14:30:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -835,7 +840,7 @@
   
   <url>
     <loc>https://lsal.me/categories/text/</loc>
-    <lastmod>2019-01-06T06:38:59+00:00</lastmod>
+    <lastmod>2019-01-08T14:30:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
