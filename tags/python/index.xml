@@ -17,7 +17,7 @@
       <pubDate>Sun, 06 Jan 2019 01:52:06 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000137/</guid>
-      <description>&lt;p&gt;安装时产生错误 &lt;code&gt;ImportError: cannot import name &#39;sysconfig&#39;&lt;/code&gt; ，原因是缺少依赖，故记录之。&lt;/p&gt;
+      <description>&lt;p&gt;安装 pip 时产生错误 &lt;code&gt;ImportError: cannot import name &#39;sysconfig&#39;&lt;/code&gt; ，原因是缺少依赖，故记录之。&lt;/p&gt;
 
 &lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
 
