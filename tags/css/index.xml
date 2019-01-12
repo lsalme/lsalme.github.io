@@ -17,7 +17,17 @@
       <pubDate>Wed, 04 Apr 2018 02:34:52 +0000</pubDate>
       
       <guid>https://lsal.me/posts/000093/</guid>
-      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;</description>
+      <description>&lt;p&gt;由于博客有一个顶部浮动菜单，这样点击锚点链接之后，菜单会遮住一部分锚点后的内容。为了解决这个问题需要让点击锚点后的位置有个偏移。可以使用 CSS 实现。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.headerlink:before {
+    content: &amp;quot;&amp;quot;;
+    display: block;
+    visibility: hidden;
+    position: relative;
+    height: 80px;
+    margin-top: -80px;
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
