@@ -19,9 +19,15 @@
       <guid>https://lsal.me/posts/000120/</guid>
       <description>&lt;p&gt;Openwrt 下用 https 的软件源更新时会报错：&lt;/p&gt;
 
-&lt;p&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;wget: SSL support not available, please install one of the libustream-ssl-* libraries as well as the ca-bundle and ca-certificates packages.
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;</description>
+&lt;p&gt;可安装相关软件包解决。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;opkg update
+opkg install wget
+opkg install ca-certificates
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
